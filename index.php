@@ -11,4 +11,5 @@ header('Location: ./demo/');
 
 
 echo "change";
+echo "change by admin";
 ?>
